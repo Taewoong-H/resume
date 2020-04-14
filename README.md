@@ -49,3 +49,4 @@
 ### 랜덤 닉네임 생성기
 [teo.pythonanywhere.com](https://)
 
+(계속 수정중입니다)
