@@ -47,5 +47,5 @@
 ## 프로젝트 이력
 
 ### 랜덤 닉네임 생성기
-<a src="">주소</a>
+[teo.pythonanywhere.com](https://)
 
