@@ -47,6 +47,6 @@
 ## 프로젝트 이력
 
 ### 랜덤 닉네임 생성기
-[](https://obscure-coast-32051.herokuapp.com/)
+- [obscure-coast-32051.herokuapp.com](https://obscure-coast-32051.herokuapp.com/)
 
 (계속 수정중입니다)
