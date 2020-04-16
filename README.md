@@ -10,7 +10,7 @@
 - GitHub: [github.com/Taewoong-H](https://github.com/Taewoong-H)
 - Blog: [blog.naver.com/redtaeung](https://blog.naver.com/redtaeung)
 ```
-비전공자로서 프로그래머로 되고 싶습니다.
+비전공자로서 웹 개발자가 되고 싶습니다.
 ```
 
 
@@ -39,10 +39,11 @@
 ### Studying
 비전공자이므로 기초적인 것들에 중심적으로 공부하는 중입니다.
 - Algorithm
-- Heroku 배포
+- javascript 생활코딩을 보며 배우는 중
+- 웹의 기본적인 원리
 
 앞으로 배우고 싶고 배울 것들 입니다.
-- server 관련
+- server 관련(JAVA, Node.js, SQL)
 
 ## 프로젝트 이력
 
