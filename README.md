@@ -48,6 +48,7 @@
 ## 프로젝트 이력
 
 ### 랜덤 닉네임 생성기
-- https://teorandomname.herokuapp.com/ [깃헙 링크: https://github.com/Taewoong-H/randomname_site]
+- https://teorandomname.herokuapp.com/ 
+  [github link: https://github.com/Taewoong-H/randomname_site]
 
 (계속 수정중입니다)
