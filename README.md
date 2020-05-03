@@ -33,22 +33,29 @@
 - JavaScripts
 ### 언어
 - C++
-- Python
+- Python (주로 사용합니다.) 
 - Liunx -ubuntu
 
 ### Studying
 비전공자이므로 기초적인 것들에 중심적으로 공부하는 중입니다.
+웹 프론트엔드에 관심있으며 깔끔한 clean code를 지향하려고 노력합니다!
 - Algorithm
-- javascript 생활코딩을 보며 배우는 중
-- 웹의 기본적인 원리
+- javascript 구현하는 웹 만드는 중
+- 웹의 기본적인 원리(http, network)
 
 앞으로 배우고 싶고 배울 것들 입니다.
 - server 관련(JAVA, Node.js, SQL)
+- react.js
+- swift
 
 ## 프로젝트 이력
 
 ### 랜덤 닉네임 생성기
 - https://teorandomname.herokuapp.com/ 
   [github link: https://github.com/Taewoong-H/randomname_site]
+
+### 나에게 맞는 강아지 찾기
+진행중..
+[github link: https://github.com/Taewoong-H/mydog]
 
 (계속 수정중입니다)
