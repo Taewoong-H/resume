@@ -51,11 +51,18 @@
 ## 프로젝트 이력
 
 ### 랜덤 닉네임 생성기
+- Django를 이용한 토이프로젝트
 - https://teorandomname.herokuapp.com/ 
   [github link: https://github.com/Taewoong-H/randomname_site]
+  
+### To Do List
+- 자바스크립트 공부 및 활용
+- https://taewoong-h.github.io/todolist/
+  [github link: https://github.com/Taewoong-H/todolist]
 
 ### 나에게 맞는 강아지 찾기
-진행중..
-[github link: https://github.com/Taewoong-H/mydog]
+- 자바스크립트 활용한 토이프로젝트
+- 진행중..
+  [github link: https://github.com/Taewoong-H/mydog]
 
 (계속 수정중입니다)
