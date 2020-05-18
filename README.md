@@ -59,6 +59,12 @@
 - 자바스크립트 공부 및 활용
 - https://taewoong-h.github.io/todolist/
   [github link: https://github.com/Taewoong-H/todolist]
+  
+### PaintJS
+ - Javascript를 활용한 그림판 웹
+ - 마우스로 그림 그리기, 채우기효과, 색 바꾸기, 이미지 불러오기, 저장하기, 삭제하기 구현
+ - https://taewoong-h.github.io/paintJS/
+  [github link: https://github.com/Taewoong-H/paintJS]
 
 ### 나에게 맞는 강아지 찾기
 - 자바스크립트 활용한 토이프로젝트
