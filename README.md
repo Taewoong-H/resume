@@ -10,7 +10,9 @@
 - GitHub: [github.com/Taewoong-H](https://github.com/Taewoong-H)
 - Blog: [blog.naver.com/redtaeung](https://blog.naver.com/redtaeung)
 ```
-비전공자로서 웹 개발자가 되고 싶습니다.
+성취감을 성장의 발판으로 삼고 프론트엔드 개발자로 꾸준히 성장하고 싶습니다.
+안녕하세요 저는 Javascript와 Python을 주로 다루는 비전공자 출신 개발자입니다.
+아직은 작은 프로젝트 밖에 다루지 않았지만 계속 배우고 새로운 것 을 개발해 나가는 중 입니다.
 ```
 
 
@@ -40,12 +42,11 @@
 비전공자이므로 기초적인 것들에 중심적으로 공부하는 중입니다.
 웹 프론트엔드에 관심있으며 깔끔한 clean code를 지향하려고 노력합니다!
 - Algorithm
-- javascript 구현하는 웹 만드는 중
-- 웹의 기본적인 원리(http, network)
+- React.js
+- UI components
 
 앞으로 배우고 싶고 배울 것들 입니다.
 - server 관련(JAVA, Node.js, SQL)
-- react.js
 - swift
 
 ## 프로젝트 이력
@@ -70,7 +71,7 @@
    [github link: https://github.com/Taewoong-H/paintJS]
 
 ### Avenger page
- - CSS 반응형 웹 만들기 연습 겸 프로젝트 구성
+ - CSS 반응형 웹 만들기 연습 겸 web page 구성
  - https://taewoong-h.github.io/ironman/.
  
   [github link: https://github.com/Taewoong-H/ironman]
