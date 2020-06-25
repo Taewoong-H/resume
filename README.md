@@ -33,6 +33,7 @@
 - HTML
 - CSS
 - JavaScripts
+
 ### 언어
 - C++
 - Python (주로 사용합니다.) 
@@ -43,6 +44,7 @@
 웹 프론트엔드에 관심있으며 깔끔한 clean code를 지향하려고 노력합니다!
 - Algorithm
 - React.js
+- vue.js
 - UI components
 
 앞으로 배우고 싶고 배울 것들 입니다.
@@ -80,5 +82,5 @@
 - 자바스크립트 활용한 토이프로젝트
 - 진행중..
   [github link: https://github.com/Taewoong-H/mydog]
-
+  
 (계속 수정중입니다)
