@@ -5,12 +5,16 @@ const article: IArticle.Payload = {
 
   list: [
     {
-      content: 'Recipient of the "Open Source Hall of Fame" award in 2015.',
-      href: '#',
+      content: '병아리 신입개발자(2개월 차) 일기',
+      href: 'https://velog.io/@taeung/posts',
     },
     {
-      content: 'Featured on the cover of "Linux Monthly" as the face of Linux (2016, 2018, 2020).',
-      href: '#',
+      content: 'Javascript로 이미지 업로드 후 canvas위에 그리기',
+      href: 'https://blog.naver.com/redtaeung/221969067359',
+    },
+    {
+      content: 'Javascript로 ToDoList만들기(객체지향적 접근)',
+      href: 'https://teo-lab.tistory.com/9',
     },
   ],
 };
